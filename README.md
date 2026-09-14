@@ -18,7 +18,7 @@
 ```bash
 # 1. Clone the repository
 git clone https://github.com/pypok-1/НОВОЕ_ИМЯ.git
-cd НОВОЕ_ИМЯ
+cd NEW_NAME
 
 # 2. Apply migrations
 python manage.py migrate
